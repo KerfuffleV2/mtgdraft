@@ -10,6 +10,8 @@ More information: https://magic.wizards.com/en/mtgarena
 
 You can enter card names (allows partial matches and tab completion) to see the tier list ratings. You enter sets of cards and then can see a list sorted by the ratings with information like cost/influence requirements visible.
 
+*Note*: Use spaces instead of dashes in card names. `Piston Fist Cyclops`, not `Piston-Fist Cyclops`.
+
 ##### Draft example:
 
 ![Draft example](https://raw.githubusercontent.com/KerfuffleV2/mtgdraft/assets/images/example-draft.png)
