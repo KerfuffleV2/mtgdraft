@@ -70,7 +70,7 @@ def main():
   if len(sys.argv) == 2:
     fn = sys.argv[1]
   else:
-    fn = 'AllSets-x.json'
+    fn = 'AllSets.json'
   with open(fn, 'r', encoding = 'utf-8') as fp:
     jresult = json.load(fp)
   result = {}
