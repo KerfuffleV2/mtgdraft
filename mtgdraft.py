@@ -71,7 +71,6 @@ class Cards(object):
         fixedname = name.replace('-', ' ').lower()
         card = Card(name, cost, rarity, ctype, colors, text)
         cards[fixedname] = card
-        print(card.pretty())
 
 
 class RatedCard(object):
